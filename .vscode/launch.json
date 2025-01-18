@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nithinrkashyap/Desktop/Shell programming using fork() ",
+      "program": "/Users/nithinrkashyap/Desktop/Shell programming using fork() /build/Debug/outDebug"
+    }
+  ]
+}
